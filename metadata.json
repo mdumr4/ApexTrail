@@ -1,0 +1,6 @@
+{
+  "name": "ApexTrail - Mountain Trek Booking & AI Expedition Guide",
+  "description": "Discover and book world-class mountain treks, check real-time alpine weather forecasts, generate AI-tailored gear packing lists and guided route strategies based on trekker skill, and manage trail itineraries with an admin portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
